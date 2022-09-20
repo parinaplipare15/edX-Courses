@@ -1,1 +1,1 @@
-EdX Courses Solutions
+Solutions for the EdX Courses related to data analytics
